@@ -78,3 +78,11 @@ Matplotlib • Seaborn • Business Analytics • KPI Analysis**
 ## ▶️ How to Run the Project
 ```bash
 pip install pandas numpy matplotlib seaborn
+Customer_Data_Analysis/
+│
+├── data/                 # Raw datasets
+├── notebooks/            # Jupyter analysis notebook
+├── scripts/              # Python scripts
+├── outputs/              # CSV reports
+└── README.md
+
